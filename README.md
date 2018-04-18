@@ -15,4 +15,4 @@ icons downloaded from iconarchive.com
 1. https://www.christianengvall.se/electron-packager-tutorial/
 
 ## github repository:
-https://electronjs.org/
+https://github.com/tEgRaT/Electron-ShoppingList
